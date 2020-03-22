@@ -17,7 +17,7 @@ class Parser(object):
                     }
         self.path = path
         self.outer_table_list = outer_table_list
-                    
+    
     def do_extract(self):
         for outer_table in self.outer_table_list:
             soup = BeautifulSoup(outer_table,"html.parser")
@@ -50,17 +50,20 @@ class Parser(object):
                 self.result["type"].append(type)
                 self.result["anonymity"].append(anonymity)
     
+    
     def to_csv(self):
         
-
-        df = pd.DataFrame(self.result).to_csv(self.path,index=False)
+        #df = pd.DataFrame(self.result).to_csv(self.path,index=False)
+        df = pd.DataFrame(self.final_proxies).to_csv(self.path,index=False)
 
         return self.path
 
     def excute(self):
         self.do_extract()
-        if self.path:
-            print("Saving to %s" % self.path)
-            return self.to_csv()   
-        else:
-            return self.result
+
+        # if self.path:
+        #     print("Saving to %s" % self.path)
+        #     return self.to_csv()   
+
+        # else:
+        return self.result
