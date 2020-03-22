@@ -1,0 +1,497 @@
+address,port,country,city,speed,type,anonymity
+45.55.27.15,3128,United States  San Francisco,,1380 ms,HTTP,High
+154.16.63.16,3128,United Kingdom  Enfield Town,,960 ms,HTTP,High
+101.50.1.2,80,Indonesia  Surabaya,,980 ms,HTTP,No
+45.55.23.78,8080,United States  San Francisco,,800 ms,HTTP,High
+45.55.27.161,3128,United States  San Francisco,,1360 ms,HTTP,High
+188.226.141.127,8080,Netherlands,,600 ms,HTTP,High
+122.201.112.114,80,Australia  Sydney,,1880 ms,HTTP,Medium
+1.0.0.221,80,Australia  Stirling,,300 ms,HTTP,No
+1.0.0.185,80,Australia  Stirling,,600 ms,HTTP,No
+109.75.145.152,15392,Czech Republic  Prague,,280 ms,"HTTP, SOCKS4, SOCKS5",High
+1.0.0.11,80,Australia  Parafield Gardens,,1420 ms,HTTP,No
+1.0.0.158,80,Australia  Parafield Gardens,,340 ms,HTTP,No
+1.0.0.84,80,Australia  Parafield Gardens,,320 ms,HTTP,No
+1.0.0.250,80,Australia  Stirling,,340 ms,HTTP,No
+192.176.54.209,31068,Sweden  Boden,,220 ms,"HTTP, SOCKS4, SOCKS5",High
+148.217.94.54,3128,Mexico  Zacatecas City,,1420 ms,HTTP,No
+163.172.154.72,8811,France,,1620 ms,HTTP,No
+163.172.152.52,8811,France,,1580 ms,HTTP,No
+163.172.189.32,8811,France,,920 ms,HTTP,No
+142.93.248.80,3128,United States  North Bergen,,1080 ms,HTTP,No
+163.172.146.119,8811,France,,1020 ms,HTTP,No
+157.245.224.29,3128,United States  Santa Clara,,1880 ms,"HTTP, HTTPS",No
+157.245.224.29,80,United States  Santa Clara,,1880 ms,"HTTP, HTTPS",No
+163.172.190.160,8811,France,,1600 ms,HTTP,No
+163.172.136.226,8811,France,,1340 ms,HTTP,No
+136.243.47.220,3128,Germany,,420 ms,HTTP,No
+64.225.24.13,3128,United States  Clifton,,620 ms,"HTTP, HTTPS",No
+172.105.124.231,8080,Singapore  Singapore,,1860 ms,HTTP,No
+103.251.225.16,6666,India,,1700 ms,HTTP,High
+1.0.0.247,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.108,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.243,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.244,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.101,80,Australia  Stirling,,1600 ms,HTTP,No
+1.0.0.157,80,Australia  Parafield Gardens,,600 ms,HTTP,No
+1.0.0.248,80,Australia  Stirling,,320 ms,HTTP,No
+1.0.0.0,80,Australia  Fountain Gate,,340 ms,HTTP,No
+1.0.0.242,80,Australia  Parafield Gardens,,360 ms,HTTP,No
+1.0.0.110,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.246,80,Australia  Stirling,,340 ms,HTTP,No
+1.1.1.1,80,Australia  Research,,300 ms,HTTP,No
+1.0.0.245,80,Australia  Parafield Gardens,,320 ms,HTTP,No
+1.0.0.9,80,Australia  Parafield Gardens,,300 ms,HTTP,No
+1.0.0.10,80,Australia  Parafield Gardens,,320 ms,HTTP,No
+1.0.0.113,80,Australia  Stirling,,300 ms,HTTP,No
+1.1.1.2,80,Australia,,300 ms,HTTP,No
+154.16.63.16,8080,United Kingdom  Enfield Town,,900 ms,HTTP,High
+162.243.108.129,8080,United States  New York,,1020 ms,HTTP,High
+162.243.108.141,8080,United States  New York,,1100 ms,HTTP,High
+46.4.96.137,3128,Germany,,680 ms,HTTP,High
+154.16.202.22,3128,Germany  Frankfurt am Main,,200 ms,HTTP,High
+118.69.50.154,443,Vietnam  Ho Chi Minh City,,1720 ms,HTTP,Low
+51.158.108.135,8811,France  Paris,,560 ms,HTTP,No
+51.158.99.51,8811,France  Paris,,920 ms,HTTP,No
+52.179.231.206,80,United States  Boydton,,660 ms,HTTP,High
+51.158.186.242,8811,France  Paris,,1040 ms,HTTP,No
+60.251.40.84,1080,Taiwan  Keelung,,1180 ms,HTTP,High
+162.243.107.120,8080,United States  New York,,1060 ms,HTTP,High
+162.243.108.141,3128,United States  New York,,1160 ms,HTTP,High
+162.243.108.161,8080,United States  New York,,1040 ms,HTTP,High
+192.241.245.207,8080,United States  New York,,1240 ms,HTTP,High
+102.129.249.120,8080,United States  Los Angeles,,1440 ms,HTTP,High
+188.226.141.61,3128,Netherlands,,620 ms,HTTP,High
+188.226.141.61,8080,Netherlands,,620 ms,HTTP,High
+188.226.141.211,8080,Netherlands,,580 ms,HTTP,High
+46.4.96.137,8080,Germany,,620 ms,HTTP,High
+191.96.42.80,3128,United States  Chicago,,580 ms,HTTP,High
+191.96.42.80,8080,United States  Chicago,,600 ms,HTTP,High
+5.252.161.48,8080,United Kingdom,,260 ms,HTTP,High
+5.252.161.48,3128,United Kingdom,,260 ms,HTTP,High
+139.59.109.156,8080,Singapore  Singapore,,1460 ms,HTTP,High
+138.68.165.154,8080,United Kingdom  London,,600 ms,HTTP,High
+142.93.150.47,8118,Canada  Toronto,,820 ms,HTTPS,High
+64.225.27.61,8118,United States  Clifton,,1300 ms,HTTPS,High
+144.91.71.141,8080,Germany  Nuremberg,,1360 ms,"HTTP, HTTPS",No
+172.80.253.50,3128,Iran,,720 ms,HTTP,No
+64.225.37.186,3128,United States  Santa Clara,,840 ms,HTTP,Medium
+45.76.43.163,8080,Netherlands  Amsterdam,,300 ms,HTTP,High
+138.68.240.218,8080,United States  Santa Clara,,800 ms,HTTP,High
+138.68.41.90,3128,United States  Santa Clara,,820 ms,HTTP,High
+45.55.27.15,8080,United States  San Francisco,,1360 ms,HTTP,High
+67.205.132.241,8080,United States  North Bergen,,560 ms,HTTP,High
+198.199.120.102,3128,United States  New York,,560 ms,HTTP,High
+46.238.230.175,8080,Poland  Bydgoszcz,,1040 ms,HTTP,No
+31.14.131.70,8080,Italy  Arezzo,,460 ms,"HTTP, HTTPS",No
+102.129.249.120,3128,United States  Los Angeles,,1420 ms,HTTP,High
+138.68.161.14,8080,United Kingdom  London,,1160 ms,HTTP,High
+138.68.161.14,3128,United States  New York,,800 ms,HTTP,High
+31.146.31.182,3128,Georgia  Tbilisi,,1520 ms,HTTP,Medium
+150.109.148.16,3128,Hong Kong,,1740 ms,HTTP,No
+51.79.52.62,3128,Canada,,1200 ms,HTTP,No
+195.140.162.188,8080,Ukraine  Dnipro,,140 ms,HTTP,High
+88.199.21.76,80,Poland  Krotoszyn,,340 ms,HTTP,No
+80.187.140.26,8080,Germany,,240 ms,HTTP,High
+51.158.123.250,8811,France  Paris,,860 ms,HTTP,No
+51.158.114.177,8811,France  Paris,,560 ms,HTTP,No
+51.158.172.165,8811,France  Paris,,540 ms,HTTP,No
+189.10.3.186,3128,Brazil  Porto Velho,,1440 ms,HTTP,No
+47.52.36.33,80,Hong Kong,,1500 ms,HTTP,High
+162.246.18.74,3128,United States  Fort Worth,,1780 ms,"HTTP, HTTPS",No
+165.22.224.205,8118,Canada  Toronto,,900 ms,HTTPS,High
+142.93.57.37,80,United States  North Bergen,,580 ms,HTTP,High
+45.55.23.78,3128,United States  San Francisco,,780 ms,HTTP,High
+142.93.211.253,3128,India  Bengaluru,,1020 ms,HTTP,No
+139.59.64.9,3128,India  Bengaluru,,840 ms,HTTP,High
+139.59.61.229,3128,India  Bengaluru,,840 ms,HTTP,High
+139.59.62.255,8080,India  Bengaluru,,820 ms,HTTP,High
+117.6.161.118,53281,Vietnam  Hanoi,,1660 ms,HTTP,High
+190.187.253.124,3128,Peru  Lima,,1680 ms,"HTTP, HTTPS",No
+102.68.130.162,8080,Libyan Arab Jamahiriya  Tripoli,,1080 ms,HTTP,No
+114.34.234.201,3128,Taiwan  Taipei,,1860 ms,HTTPS,High
+193.160.214.29,3169,Turkey  Istanbul,,520 ms,HTTPS,High
+104.244.75.218,8080,Luxembourg  Roost,,220 ms,HTTP,High
+194.167.44.91,80,France  Vitry-sur-Seine,,600 ms,HTTP,Low
+201.249.190.235,3128,Venezuela  Porlamar,,1540 ms,HTTP,No
+192.241.245.207,3128,United States  New York,,1560 ms,HTTP,High
+198.199.119.119,3128,United States  San Francisco,,1360 ms,HTTP,High
+83.103.193.74,13192,Romania  Berceni,,420 ms,"HTTP, SOCKS4, SOCKS5",High
+85.186.98.158,39179,Romania  Bucharest,,420 ms,"HTTP, SOCKS4, SOCKS5",High
+91.231.211.42,41285,Romania  Ramnicu Sarat,,380 ms,"HTTP, SOCKS4, SOCKS5",High
+212.220.216.70,8080,Russian Federation,,380 ms,HTTP,High
+80.254.126.161,3128,Russian Federation  Rostov-on-Don,,1180 ms,HTTP,No
+190.25.189.178,8080,Colombia,,1360 ms,HTTPS,High
+54.164.133.248,3128,United States  Ashburn,,760 ms,HTTPS,High
+217.174.184.234,8081,Russian Federation  Moscow,,100 ms,HTTP,No
+45.55.27.161,8080,United States  San Francisco,,1360 ms,HTTP,High
+198.199.119.119,8080,United States  San Francisco,,1380 ms,HTTP,High
+67.205.146.29,3128,United States  North Bergen,,560 ms,HTTP,High
+138.68.161.60,3128,United States  New York,,660 ms,HTTP,High
+138.68.24.145,3128,United States  Santa Clara,,1360 ms,HTTP,High
+138.68.24.145,8080,United States  Santa Clara,,1360 ms,HTTP,High
+138.197.222.35,3128,United States  Santa Clara,,1360 ms,HTTP,High
+138.68.240.218,3128,United States  Santa Clara,,780 ms,HTTP,High
+67.205.174.209,8080,United States  North Bergen,,1020 ms,HTTP,High
+67.205.174.209,3128,United States  New York,,1020 ms,HTTP,High
+138.68.41.90,8080,United States  New York,,780 ms,HTTP,High
+45.55.9.218,8080,United States  San Francisco,,780 ms,HTTP,High
+45.55.9.218,3128,United States  San Francisco,,780 ms,HTTP,High
+67.205.149.230,8080,United States  North Bergen,,600 ms,HTTP,High
+198.199.120.102,8080,United States  New York,,600 ms,HTTP,High
+207.154.231.211,8080,United States  New York,,580 ms,HTTP,High
+67.205.149.230,3128,United States  New York,,600 ms,HTTP,High
+138.68.173.29,8080,United States  New York,,600 ms,HTTP,High
+207.154.231.213,3128,United States  New York,,300 ms,HTTP,High
+138.68.173.29,3128,United States  New York,,600 ms,HTTP,High
+67.205.132.241,3128,United States  New York,,600 ms,HTTP,High
+67.205.146.29,8080,United States  Beverly,,580 ms,HTTP,High
+138.68.165.154,3128,United States  New York,,600 ms,HTTP,High
+194.186.135.74,3130,Russian Federation,,780 ms,"HTTP, HTTPS",No
+68.183.228.112,44344,Singapore,,980 ms,"HTTP, HTTPS",High
+46.238.32.237,10030,Bulgaria  Sofia,,440 ms,"HTTP, SOCKS4, SOCKS5",High
+51.15.83.176,8118,Netherlands,,240 ms,"HTTP, HTTPS",High
+82.200.233.4,3128,Kazakstan,,1020 ms,"HTTP, HTTPS",High
+95.58.161.180,48021,Kazakstan,,1220 ms,HTTP,High
+118.69.50.154,80,Vietnam  Ho Chi Minh City,,1040 ms,HTTP,Low
+80.187.140.26,80,Germany,,240 ms,HTTP,High
+207.154.231.213,8080,Germany  Frankfurt am Main,,300 ms,HTTP,High
+88.198.24.108,3128,Germany  Nuremberg,,300 ms,HTTP,High
+88.198.50.103,8080,Germany  Nuremberg,,300 ms,HTTP,High
+88.198.24.108,8080,Germany  Nuremberg,,280 ms,HTTP,High
+154.16.202.22,8080,Germany  Frankfurt am Main,,180 ms,HTTP,High
+138.197.157.44,3128,Canada  Toronto,,1060 ms,HTTP,High
+138.197.157.32,3128,Canada  Toronto,,1120 ms,HTTP,High
+138.197.157.32,8080,Canada  Toronto,,1140 ms,HTTP,High
+138.197.157.44,8080,Canada  Toronto,,1060 ms,HTTP,High
+162.243.107.120,3128,United States  New York,,1040 ms,HTTP,High
+178.128.99.255,44344,Singapore,,940 ms,HTTP,High
+198.232.160.7,8080,United States  Azle,,700 ms,HTTP,No
+173.245.246.122,8080,United States  Osceola,,660 ms,HTTP,No
+162.243.108.129,3128,United States  New York,,1060 ms,HTTP,High
+162.243.108.161,3128,United States  New York,,1060 ms,HTTP,High
+95.141.193.14,80,Russian Federation,,0 ms,HTTP,High
+51.68.207.81,80,United Kingdom,,500 ms,HTTPS,High
+13.91.88.108,3128,United States  San Jose,,800 ms,HTTP,No
+163.172.168.124,3128,France,,1140 ms,HTTPS,High
+165.22.239.132,8118,Canada  Toronto,,620 ms,HTTP,High
+176.9.75.42,3128,Germany,,640 ms,HTTP,High
+176.9.75.42,8080,Germany,,700 ms,HTTP,High
+176.9.119.170,3128,Germany,,600 ms,HTTP,High
+176.111.73.57,8081,Russian Federation  Lobnya,,160 ms,HTTP,No
+173.249.30.197,8118,Germany,,500 ms,HTTPS,High
+23.101.2.247,8118,Hong Kong  Central,,1080 ms,HTTP,High
+31.193.196.3,3128,Lithuania,,380 ms,"HTTP, HTTPS",No
+139.59.53.107,8080,India  Bengaluru,,780 ms,HTTP,High
+138.197.157.45,3128,Canada  Toronto,,1080 ms,HTTP,High
+138.197.157.60,8080,Canada  Toronto,,1060 ms,HTTP,High
+139.59.62.255,3128,India  Bengaluru,,740 ms,HTTP,High
+178.62.193.19,3128,United Kingdom  London,,540 ms,HTTP,High
+88.198.50.103,3128,Germany  Nuremberg,,280 ms,HTTP,High
+82.196.11.105,3128,Netherlands  Amsterdam,,280 ms,HTTP,High
+82.196.11.105,8080,Netherlands  Amsterdam,,280 ms,HTTP,High
+67.207.168.100,3128,United States  Las Vegas,,1800 ms,HTTP,No
+200.73.129.61,8080,Argentina,,1520 ms,"HTTP, HTTPS",No
+200.73.129.85,8888,Argentina,,1200 ms,HTTP,Medium
+144.217.163.138,8080,Canada  Beauharnois,,640 ms,HTTP,High
+172.104.191.106,8080,Singapore  Singapore,,1900 ms,HTTP,No
+139.59.99.63,3128,India  Bengaluru,,1440 ms,HTTP,High
+139.59.64.9,8080,India  Bengaluru,,740 ms,HTTP,High
+138.197.204.55,3128,Canada  Toronto,,1380 ms,HTTP,High
+139.59.61.229,8080,India  Bengaluru,,760 ms,HTTP,High
+139.59.99.119,8080,India  Bengaluru,,1420 ms,HTTP,High
+138.197.204.55,8080,Canada  Toronto,,1340 ms,HTTP,High
+138.197.145.103,3128,Canada  Toronto,,1100 ms,HTTP,High
+139.59.53.105,8080,India  Bengaluru,,760 ms,HTTP,High
+138.68.161.60,8080,United Kingdom  London,,540 ms,HTTP,High
+176.9.119.170,8080,Germany,,520 ms,HTTP,High
+207.154.231.217,8080,Germany  Frankfurt am Main,,520 ms,HTTP,High
+178.62.193.19,8080,United Kingdom  London,,500 ms,HTTP,High
+139.59.53.105,3128,India  Bengaluru,,840 ms,HTTP,High
+139.59.99.63,8080,Singapore  Singapore,,1460 ms,HTTP,High
+139.59.59.63,3128,India  Bengaluru,,1120 ms,HTTP,High
+139.59.109.156,3128,Singapore  Singapore,,1460 ms,HTTP,High
+139.59.53.106,8080,India  Bengaluru,,1100 ms,HTTP,High
+139.59.101.223,3128,India  Bengaluru,,1460 ms,HTTP,High
+139.59.99.119,3128,India  Bengaluru,,1440 ms,HTTP,High
+138.197.157.45,8080,Canada  Toronto,,1060 ms,HTTP,High
+139.59.53.107,3128,India  Bengaluru,,840 ms,HTTP,High
+138.197.222.35,8080,Canada  Toronto,,1340 ms,HTTP,High
+139.59.101.223,8080,India  Bengaluru,,1460 ms,HTTP,High
+138.197.145.103,8080,Canada  Toronto,,1100 ms,HTTP,High
+203.202.245.62,80,Bangladesh,,1080 ms,HTTP,Low
+207.154.231.212,3128,United States  New York,,260 ms,HTTP,High
+120.132.52.85,8888,China  Beijing,,880 ms,HTTP,High
+139.162.18.88,8080,Singapore  Singapore,,860 ms,HTTP,No
+120.132.52.225,8888,China  Beijing,,880 ms,HTTP,High
+136.243.47.220,3128,Germany,,280 ms,HTTP,No
+173.212.202.65,80,Germany,,1200 ms,HTTP,High
+1.0.0.219,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.206,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.154,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.87,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.45,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+172.104.40.202,8080,Singapore  Singapore,,1220 ms,HTTP,No
+163.172.182.164,3128,France,,340 ms,HTTPS,High
+1.0.0.53,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.63,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.241,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.21,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.98,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.207,80,Australia  Stirling,,200 ms,HTTP,No
+1.0.0.184,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.65,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.127,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.49,80,Australia  Stirling,,280 ms,HTTP,No
+1.0.0.192,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.223,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.186,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.191,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.148,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.150,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+113.53.230.167,80,Thailand,,1060 ms,HTTP,Low
+180.150.191.223,8888,China  Beijing,,880 ms,HTTP,High
+82.208.143.194,21805,Romania  Bacau,,900 ms,"HTTP, SOCKS4, SOCKS5",High
+139.59.59.63,8080,India  Bengaluru,,860 ms,HTTP,High
+103.82.219.85,3128,Hong Kong,,1000 ms,"HTTP, HTTPS",No
+1.0.0.82,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.196,80,Australia  Parafield Gardens,,180 ms,HTTP,No
+1.0.0.76,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.94,80,Australia  Parafield Gardens,,180 ms,HTTP,No
+1.0.0.179,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.28,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.61,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.125,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.236,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.199,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.37,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.80,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.120,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.187,80,Australia  Stirling,,220 ms,HTTP,No
+1.0.0.195,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.240,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.164,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.162,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.40,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.160,80,Australia  Parafield Gardens,,220 ms,HTTP,No
+1.0.0.2,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.20,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.36,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.39,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.42,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.50,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.54,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.72,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.83,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.93,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.121,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.133,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.203,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.217,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.237,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.252,80,Australia  Stirling,,240 ms,HTTP,No
+207.154.231.211,3128,Germany  Frankfurt am Main,,520 ms,HTTP,High
+138.197.157.60,3128,Canada  Toronto,,1060 ms,HTTP,High
+185.44.229.227,34930,Armenia  Yerevan,,1920 ms,HTTP,High
+120.132.53.14,8888,China  Beijing,,880 ms,HTTP,High
+200.122.86.177,8080,Argentina  Pergamino,,1340 ms,HTTP,No
+178.128.50.210,80,Singapore  Singapore,,860 ms,HTTP,Medium
+1.0.0.14,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.168,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.166,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.51,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.253,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.177,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.15,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.19,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.38,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.47,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.149,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.198,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.215,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.235,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.178,80,,,240 ms,HTTP,No
+1.0.0.151,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.29,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.32,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.43,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.90,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.99,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.16,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.66,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.24,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.60,80,Australia  Stirling,,280 ms,HTTP,No
+1.0.0.68,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.193,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.226,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.12,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.56,80,Australia  Stirling,,200 ms,HTTP,No
+1.0.0.91,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.220,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.48,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.231,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.7,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.119,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.194,80,Australia  Stirling,,220 ms,HTTP,No
+1.0.0.78,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.152,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.142,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.27,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.31,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.71,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.165,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.205,80,Australia  Stirling,,260 ms,HTTP,No
+139.162.63.137,8080,Singapore  Singapore,,920 ms,HTTP,No
+1.0.0.73,80,Australia  Parafield Gardens,,200 ms,HTTP,No
+1.0.0.103,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.62,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.55,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.232,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.167,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.107,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.200,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.208,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.212,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.216,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.222,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.52,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.106,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.161,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.124,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.30,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.238,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.233,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.118,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.224,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.163,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.17,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.35,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.46,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.69,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.81,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.143,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.173,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.181,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.227,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.180,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.234,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.188,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.134,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.213,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.64,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.204,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.182,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.116,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.4,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.57,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.59,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.67,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.79,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.88,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.95,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.122,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.135,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.159,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.171,80,Australia  Stirling,,220 ms,HTTP,No
+1.0.0.214,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.228,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.239,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.70,80,Australia  Parafield Gardens,,180 ms,HTTP,No
+1.0.0.174,80,Australia  Parafield Gardens,,180 ms,HTTP,No
+1.0.0.97,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.105,80,Australia  Stirling,,180 ms,HTTP,No
+1.0.0.104,80,Australia  Wynn Vale,,260 ms,HTTP,No
+1.0.0.100,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.77,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.172,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.175,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.197,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.137,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.153,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.41,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.202,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.3,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.229,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.251,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.58,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.183,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.8,80,Australia  Parafield Gardens,,220 ms,HTTP,No
+1.0.0.190,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.169,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.114,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.170,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.211,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.18,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.189,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.13,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.34,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.44,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.86,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.89,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.155,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.218,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.225,80,Australia  Stirling,,260 ms,HTTP,No
+139.59.53.106,3128,India  Bengaluru,,840 ms,HTTP,High
+165.22.62.143,8080,Singapore,,1880 ms,HTTP,No
+165.22.222.119,3128,India  Bengaluru,,1060 ms,HTTP,No
+188.226.141.127,3128,Netherlands,,500 ms,HTTP,High
+1.0.0.144,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.22,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.85,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.230,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.74,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.96,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.201,80,Australia  Stirling,,260 ms,HTTP,No
+178.141.249.246,8081,Russian Federation  Kirov,,1900 ms,HTTP,No
+1.0.0.249,80,Australia  Stirling,,240 ms,HTTP,No
+103.123.171.218,82,Bangladesh,,1040 ms,HTTP,High
+210.140.170.236,80,Japan,,1100 ms,HTTP,No
+207.154.231.212,8080,Germany  Frankfurt am Main,,280 ms,HTTP,High
+122.201.112.114,80,Australia  Sydney,,1800 ms,HTTP,Medium
+46.4.96.137,8080,Germany,,540 ms,HTTP,High
+1.0.0.1,80,Australia  Wynn Vale,,240 ms,HTTP,No
+1.0.0.104,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+165.22.62.171,8080,Singapore,,1500 ms,HTTP,No
+172.104.175.67,8080,Singapore  Singapore,,920 ms,HTTP,No
+139.162.63.137,8080,Singapore  Singapore,,980 ms,HTTP,No
+84.201.254.47,3128,Russian Federation  Izhevsk,,180 ms,HTTPS,High
+1.0.0.176,80,Australia  Fountain Gate,,240 ms,HTTP,No
+1.0.0.25,80,Australia  Wynn Vale,,240 ms,HTTP,No
+1.0.0.52,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.131,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.146,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.6,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.193,80,Australia  Adelaide,,240 ms,HTTP,No
+172.104.32.205,8080,Singapore  Singapore,,920 ms,HTTP,No
+1.0.0.209,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.111,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.123,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.140,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.145,80,Australia  Parafield Gardens,,220 ms,HTTP,No
+1.0.0.210,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.176,80,Australia  Fountain Gate,,240 ms,HTTP,No
+1.0.0.33,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.132,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.147,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.109,80,Australia  Parafield Gardens,,180 ms,HTTP,No
+1.0.0.25,80,Australia  Wynn Vale,,240 ms,HTTP,No
+1.0.0.1,80,Australia  Wynn Vale,,240 ms,HTTP,No
+1.0.0.92,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.130,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.138,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.5,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.156,80,Australia  Parafield Gardens,,280 ms,HTTP,No
+1.0.0.102,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.115,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.117,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.136,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.23,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.26,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.6,80,Australia  Parafield Gardens,,260 ms,HTTP,No
+1.0.0.126,80,Australia  Stirling,,260 ms,HTTP,No
+1.0.0.129,80,Australia  Stirling,,240 ms,HTTP,No
+1.0.0.141,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.112,80,Australia  Parafield Gardens,,240 ms,HTTP,No
+1.0.0.128,80,Australia  Parafield Gardens,,300 ms,HTTP,No
+1.0.0.139,80,Australia  Stirling,,320 ms,HTTP,No
+93.122.182.46,20331,Romania,,560 ms,"HTTP, SOCKS4, SOCKS5",High
